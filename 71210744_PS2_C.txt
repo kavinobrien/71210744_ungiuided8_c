@@ -1,0 +1,5 @@
+air masuk melalui saluran pertama dan akan mengalir ke saluran ember A 
+tetapi air tidak akan mengisi ember A karena saluran ditutup
+air juga akan mengalir ke saluran C dan D tetapi tidak akan masuk ke ember C dengan D
+karena saluran di tutup jadi air semua akan mengisi emeber B sampai penuh
+jadi ember yang akan di penuhi air adalah ember B 
